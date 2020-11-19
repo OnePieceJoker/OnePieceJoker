@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm zhiHong Li, just a developer.
+#### I'm zhiHong Li, just a tech.
 <!--
 **OnePieceJoker/OnePieceJoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 🌱 I’m currently learning DDD related knowledge.
-- 📫 How to reach me: joker_lizhih@163.com
 -->
+
+- 📫 How to reach me: joker_lizhih@163.com
